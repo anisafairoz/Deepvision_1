@@ -1,0 +1,6 @@
+STREAM_URL = 0   
+WEAPON_MODEL_PATH = "models/weapon_model.pt"
+CONFIDENCE_THRESHOLD = 0.4
+PERSON_MODEL_PATH = "yolov8n.pt"
+
+ALERT_COOLDOWN = 10

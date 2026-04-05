@@ -1,4 +1,5 @@
 STREAM_URL = 0   
+
 WEAPON_MODEL_PATH = "yolov8s-world.pt"
 CONFIDENCE_THRESHOLD = 0.4 # Increased for better reliability
 PERSON_MODEL_PATH = "yolov8n.pt"
